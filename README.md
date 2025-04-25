@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/phialsbasement-cmd-mcp-server-badge.jpg)](https://mseep.ai/app/phialsbasement-cmd-mcp-server)
+
 # CMD MCP Server
 
 [![smithery badge](https://smithery.ai/badge/server-cmd)](https://smithery.ai/server/server-cmd)
